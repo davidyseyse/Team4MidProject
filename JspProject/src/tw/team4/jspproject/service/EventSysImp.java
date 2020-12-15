@@ -15,7 +15,6 @@ import javax.naming.InitialContext;
 import javax.naming.NamingException;
 import javax.sql.DataSource;
 
-import tw.elainehsueh.project.event.EventInputSystemBean;
 import tw.team4.jspproject.javabean.AttractionBean;
 import tw.team4.jspproject.javabean.EventBean;
 import tw.team4.jspproject.javabean.ExhibitionBean;

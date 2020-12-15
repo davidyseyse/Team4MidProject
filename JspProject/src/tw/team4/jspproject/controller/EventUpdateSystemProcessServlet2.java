@@ -15,7 +15,6 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 import javax.servlet.http.HttpSession;
 
-import tw.elainehsueh.project.event.EventInputSystemBean;
 import tw.team4.jspproject.javabean.AttractionBean;
 import tw.team4.jspproject.javabean.EventBean;
 import tw.team4.jspproject.javabean.ExhibitionBean;
