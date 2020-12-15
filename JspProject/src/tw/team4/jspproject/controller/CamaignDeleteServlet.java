@@ -37,6 +37,7 @@ public class CamaignDeleteServlet extends HttpServlet {
 		
 		try {
 			dao.createConnection();
+			dao.delete(campId);
 		} catch (Exception e) {
 			e.printStackTrace();
 		} finally {
