@@ -18,8 +18,99 @@
 <link rel="stylesheet"
 	href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css">
 <!-- 外掛css -->
-<link rel="stylesheet" href="/JspProject/jsp/css/Reportcss.css">
+<!-- <link rel="stylesheet" href="/JspProject/jsp/css/Reportcss.css"> -->
+<style >
+.rep_divleft {
+    width: 150px;
+    text-align: center;
+    padding: 0px 15px 0px 0px;
+    margin: 10px 20px 0px 10px;
+    float: left;
+    display: inline-block;
+    background-color: rgb(143, 143, 151);
+/*     border: solid 2px rgb(23, 44, 2); */
+}
 
+.rep_logophoto {
+    width: 150px;
+    height: 100px;
+    padding: 10px 0px 10px 10px;
+    margin: 0px 0px 10px 0px;
+    background-color: rgba(53, 139, 189, 0.3);
+}
+
+.rep_optionplace {
+    padding: 10px 0px 5px 8px;
+    background-color: rgb(145, 115, 173, 0.3);
+    text-align: left;
+    width: 150px;
+}
+
+.rep_optionplace p {
+    margin: 5px 0px 5px 0px;
+}
+
+.rep_optionplace_text {
+    font-weight: bold;
+}
+
+.rep_reportarea {
+    background-color: transparent;
+/*     border: 2px solid darkblue; */
+    margin: 10px 0px 0px 0px;
+    display: inline-block;
+}
+
+.rep_tabitem {
+    margin: 100px 0px 0px 200px;
+    display: inline;
+}
+
+.rep_tabs_photo {
+    min-width: 1000px;
+    height: 120px;
+    background-color: rgba(230, 228, 141, 0.3);
+}
+
+.rep_tabs_db {
+    min-width: 1000px;
+    height: 280px;
+    background-color: rgba(123, 207, 112, 0.3);
+    overflow: auto;
+}
+
+.rep_table_font{
+	text-align: center;
+}
+
+#tabs ul li {
+    display: inline;
+}
+
+.rep_downloadbutton {
+    float: right;
+}
+
+.rep_crud {
+    border: 2px solid rgb(73, 73, 73);
+    margin: 10px 0px 0px 0px;
+    min-width: 1000px;
+    height: auto;
+    display: inline-block;
+}
+
+
+.rep_datadisplay {
+/*     border-top: 2px solid rgb(73, 73, 73); */
+    min-width: 1000px;
+    height: 50px;
+}
+
+.repform{
+	float: left;
+	margin-top: 5px;
+}
+</style>
 <script>
 	
 </script>
